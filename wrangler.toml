@@ -7,7 +7,7 @@ port = 8787
 local_protocol = "http"
 
 [env.vars]
-CUSTOM_DOMAIN = "silverstarrysky.com"
+CUSTOM_DOMAIN = "libcuda.so"
 
 [env.dev.vars]
 MODE = "debug"
