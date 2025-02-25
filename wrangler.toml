@@ -12,7 +12,7 @@ CUSTOM_DOMAIN = "silverstarrysky.com"
 [env.dev.vars]
 MODE = "debug"
 TARGET_UPSTREAM = "https://registry-1.docker.io"
-CUSTOM_DOMAIN = "silverstarrysky.com"
+CUSTOM_DOMAIN = "exmaple.com"
 
 [env.production]
 name = "cloudflare-docker-proxy"
